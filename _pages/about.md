@@ -29,9 +29,9 @@ I am a second year PhD student at [Toyota Technological Institute of Chicago](ht
 
 To be more specific, right now I'm broadly exploring:
 
-*   Efficient small language models
-*   Spatial reasoning abilities of visually-conditioned language models
-*   Extra linguistic information in spoken language models
+   * Efficient small language models
+   * Spatial reasoning abilities of visually-conditioned language models
+   * Extra linguistic information in spoken language models
 
 Before coming to Chicago, I spent 4 years at PolyU as an undergrad, and then 3 years at ETH Zurich working on word order typology, language acquisition and parsing algorithms.
 
