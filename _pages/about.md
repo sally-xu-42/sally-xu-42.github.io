@@ -28,6 +28,7 @@ latest_posts:
 I am a second year PhD student at [Toyota Technological Institute of Chicago](https://www.ttic.edu/), a philanthropically endowed graduate institute for computer science, where I am fortunate to be advised by Prof. [Karen Livescu](https://home.ttic.edu/~klivescu/). My main research interests are in natural language processing and computational linguistics, or anything about language really.
 
 To be more specific, right now I'm broadly exploring:
+ 
 <ul>
     <li>Efficient small language models</li>
     <li>Spatial reasoning abilities of visually-conditioned language models</li>
