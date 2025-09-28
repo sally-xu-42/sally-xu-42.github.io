@@ -32,3 +32,15 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"livescu":
+  - firstname: ["Karen"]
+    url: https://home.ttic.edu/~klivescu/
+
+"warstadt":
+  - firstname: ["Alex"]
+    url: https://alexwarstadt.github.io/
+
+"cotterell":
+  - firstname: ["Ryan"]
+    url: https://www.ryanmcotterell.com/
