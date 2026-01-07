@@ -8,5 +8,11 @@
 "Vision":
   color: "#009f36"
 
-"TACL (to appear)":
-  url: https://transacl.org/index.php/tacl
+"TACL":
+  color: "#ea9999"
+
+"ACL":
+  color: "#ea9999"
+
+"Preprint":
+  color: "#ea9999"
